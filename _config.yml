@@ -23,6 +23,7 @@ navbar-links:
   CV: "https://chrisclaycamp.github.io/docs/Chris_Camp_CV.pdf"
   Publications: "https://scholar.google.com/citations?user=SptA5o0AAAAJ&hl=en"
   Github: "https://github.com/chrisclaycamp"
+  Lab Website: "https://medicine.yale.edu/lab/scheinost/"
   Contact:
     - Twitter/X: "https://x.com/chrisclaycamp"
     - Email: "mailto:chrisclaycamp@gmail.com"
@@ -97,7 +98,6 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
