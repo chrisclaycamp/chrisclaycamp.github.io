@@ -20,11 +20,11 @@ author: Chris Camp
 ###############################################
 
 navbar-links:
-  CV: "https://chrisclaycamp.github.io/docs/Chris_Camp_CVJ.pdf"
+  CV: "https://chrisclaycamp.github.io/docs/Chris_Camp_CV.pdf"
   Publications: "https://scholar.google.com/citations?user=SptA5o0AAAAJ&hl=en"
   Github: "https://github.com/chrisclaycamp"
   Contact:
-    - Twitter\/X: "https://x.com/chrisclaycamp"
+    - Twitter/X: "https://x.com/chrisclaycamp"
     - Email: "mailto:chrisclaycamp@gmail.com"
 
 ################
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/headshot_ps_10mb.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -57,7 +57,7 @@ social-network-links:
   twitter: chrisclaycamp
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: chrisclaycamp
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -123,7 +123,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "chrisclaycamp,chris camp,neuroimaging,neuroscience,statistics,phd,grad student,graduate,fmri"
 
 ######################################
 # --- Colours / background image --- #
